@@ -1,4 +1,4 @@
-# Object removal with stable diffusion for radiological images
+# Object removal with [_Stable Diffusion_](https://github.com/CompVis/stable-diffusion) for radiological images
 
 ## Original Image 
 A T2w axial image showing a left temporal glioblastoma  
