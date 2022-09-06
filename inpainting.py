@@ -1,3 +1,5 @@
+# script from https://github.com/huggingface/diffusers/blob/main/examples/inference/inpainting.py
+
 import inspect
 from typing import List, Optional, Union
 
